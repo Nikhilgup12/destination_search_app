@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.image {
+  height: 120px;
+  width: 150px;
+}
+.image-container {
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+}
+.image-title {
+  font-size: 10px;
+  text-align: left;
+}
